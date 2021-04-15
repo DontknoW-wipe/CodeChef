@@ -1,5 +1,5 @@
 /*
-  score : 10/100
+  partial
 */
 #include<bits/stdc++.h>
 #include<stdio.h>
